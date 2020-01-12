@@ -1,0 +1,11 @@
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\bin\Debug\netcoreapp2.2\Szkolenie1.deps.json
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\bin\Debug\netcoreapp2.2\Szkolenie1.dll
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\obj\Debug\netcoreapp2.2\Szkolenie1.csproj.CoreCompileInputs.cache
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\obj\Debug\netcoreapp2.2\Szkolenie1.AssemblyInfoInputs.cache
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\obj\Debug\netcoreapp2.2\Szkolenie1.AssemblyInfo.cs
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\bin\Debug\netcoreapp2.2\Szkolenie1.pdb
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\obj\Debug\netcoreapp2.2\Szkolenie1.dll
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Szkolenie1\obj\Debug\netcoreapp2.2\Szkolenie1.pdb

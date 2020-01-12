@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company", "Company\Company.csproj", "{5BFE225B-769A-47B6-81FC-9F405DBCEE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageEmployees", "ManageEmployees\ManageEmployees.csproj", "{CFD62D52-AA7C-42AF-B4E1-E9D87AEF6751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFE225B-769A-47B6-81FC-9F405DBCEE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFE225B-769A-47B6-81FC-9F405DBCEE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFE225B-769A-47B6-81FC-9F405DBCEE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFE225B-769A-47B6-81FC-9F405DBCEE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD62D52-AA7C-42AF-B4E1-E9D87AEF6751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD62D52-AA7C-42AF-B4E1-E9D87AEF6751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD62D52-AA7C-42AF-B4E1-E9D87AEF6751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD62D52-AA7C-42AF-B4E1-E9D87AEF6751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D6530E-A976-4F82-B326-F316A290F4AA}
+	EndGlobalSection
+EndGlobal

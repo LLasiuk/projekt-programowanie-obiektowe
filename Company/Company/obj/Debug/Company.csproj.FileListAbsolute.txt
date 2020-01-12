@@ -1,0 +1,14 @@
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Company\Company\bin\Debug\Company.pdb
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Company\Company\obj\Debug\Company.pdb
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Company\Company\bin\Debug\Company.dll.config
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Company\Company\bin\Debug\Company.dll
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Company\Company\obj\Debug\Company.dll
+C:\Users\Jedrzej_Danowski\Desktop\Company\Company\bin\Debug\Company.dll.config
+C:\Users\Jedrzej_Danowski\Desktop\Company\Company\bin\Debug\Company.dll
+C:\Users\Jedrzej_Danowski\Desktop\Company\Company\bin\Debug\Company.pdb
+C:\Users\Jedrzej_Danowski\Desktop\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Jedrzej_Danowski\Desktop\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Jedrzej_Danowski\Desktop\Company\Company\obj\Debug\Company.dll
+C:\Users\Jedrzej_Danowski\Desktop\Company\Company\obj\Debug\Company.pdb

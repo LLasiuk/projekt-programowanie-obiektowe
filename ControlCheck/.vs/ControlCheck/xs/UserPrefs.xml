@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BAF4EDA4-D375-4939-B011-123D755F4502}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Menu.cs">
+    <Files>
+      <File FileName="Helpers.cs" Line="87" Column="17" />
+      <File FileName="Program.cs" Line="16" Column="13" />
+      <File FileName="Menu.cs" Line="8" Column="27" />
+      <File FileName="Pracownik.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ControlCheck PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,8 @@
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\bin\Debug\netcoreapp2.2\ControlCheck.deps.json
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\bin\Debug\netcoreapp2.2\ControlCheck.runtimeconfig.json
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\bin\Debug\netcoreapp2.2\ControlCheck.runtimeconfig.dev.json
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\bin\Debug\netcoreapp2.2\ControlCheck.dll
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\obj\Debug\netcoreapp2.2\ControlCheck.csprojAssemblyReference.cache
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\obj\Debug\netcoreapp2.2\ControlCheck.csproj.CoreCompileInputs.cache
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\obj\Debug\netcoreapp2.2\ControlCheck.AssemblyInfoInputs.cache
+C:\Users\Hanna_Ismahilova\Documents\Visual Studio 2017\Projects\Szkolenie1\Project_Company\ControlCheck\obj\Debug\netcoreapp2.2\ControlCheck.AssemblyInfo.cs
